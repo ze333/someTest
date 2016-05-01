@@ -1,0 +1,198 @@
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ApplicationInsights.config
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\TestProj.dll.config
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\TestProj.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\TestProj.pdb
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.Web.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.Data.Edm.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.Data.OData.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.Data.Services.Client.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Spatial.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\WebGrease.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.Web.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.Data.Edm.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.Data.OData.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Microsoft.Data.Services.Client.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Spatial.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\de\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\es\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\fr\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\it\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ja\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ko\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\ru\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\obj\Debug\TestProj.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\obj\Debug\TestProj.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\obj\Debug\TestProj.pdb
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\dotMemory.Unit.dll
+C:\Users\ADMIN\Downloads\Terrasoft-master\TestProj\bin\dotMemory.Unit.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ApplicationInsights.config
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\TestProj.dll.config
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\TestProj.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\TestProj.pdb
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\dotMemory.Unit.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.Web.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.Data.Edm.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.Data.OData.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.Data.Services.Client.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Spatial.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\dotMemory.Unit.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.Web.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.Data.Edm.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.Data.OData.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Microsoft.Data.Services.Client.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Spatial.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\de\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\es\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\fr\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\it\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ja\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ko\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\ru\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\obj\Debug\TestProj.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\obj\Debug\TestProj.dll
+C:\Users\ADMIN\Desktop\Новая папка\TestProj\obj\Debug\TestProj.pdb

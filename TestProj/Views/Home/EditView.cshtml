@@ -1,0 +1,54 @@
+﻿@model TestProj.BPMonlineService.Contact
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Update", "Home", FormMethod.Post))
+{
+
+        <div class="panel panel-primary" style="margin-right: 5%;">
+            <div class="panel-heading">
+                <i class="zmdi zmdi-account-circle zmdi-hc-3x"></i><label class="panel-heading" style="font-size: 20px; color: white;">Update Contact</label>
+            </div>
+            <div class="panel-body">
+                @Html.HiddenFor(model => Model.Id)
+                <div class="input-field col-md-6">
+                    Name: <br/>
+                    @Html.EditorFor(model => Model.Name)
+                </div>
+
+                <div class="input-field col-md-6">
+                    Mobile Phone: <br/>
+                    @Html.EditorFor(model => Model.MobilePhone)
+                </div>
+
+                <div class="input-field col-md-6">
+                    Dear: <br/>
+                    @Html.EditorFor(model => Model.Dear)
+                </div>
+
+                <div class="input-field col-md-6">
+                    Job Title: <br/>
+                    @Html.EditorFor(model => Model.JobTitle)
+                </div>
+                <div class="input-field col-md-6">
+
+                    Birth Date: <br/>
+                    @Html.EditorFor(model => Model.BirthDate,new{type="text"})
+                </div>
+
+                    <p>
+
+                        <div class="input-field col-md-6" style="text-align: center;">
+                            <button class="btn btn-warning waves-effect waves-light" type="submit" value="Update">
+                                Edit <i class="zmdi zmdi-edit"></i>
+                            </button>
+                        </div>
+                    </p>
+                </div>
+        </div>
+
+}
+

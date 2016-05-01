@@ -1,0 +1,56 @@
+﻿nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #f2f2f2;
+    box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+    border: 1px solid rgba(0,0,0,.1);
+    height: 70px;
+}
+
+nav ul {
+    list-style: none;
+    position: relative;
+    float: right;
+    margin-right: 100px;
+    display: inline-table;
+}
+
+nav ul li {
+    float: left;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+nav ul li a {
+    display: block; 
+    padding: 30px 20px;
+    color: #222; 
+    font-size: .9em;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.content {
+    margin-top: 90px;
+    margin-left: 30px;
+}
+
+body {
+            background: url("../Content/999020_derevyannaya_panel.jpg") no-repeat center center fixed;
+            background-size: cover;
+        }
+        
+        .top-nav-collapse {
+            background-color: #3F729B !important;
+        }
+        /* Small Devices, Tablets */
+        
+        @media only screen and (max-width: 768px) {
+            .navbar {
+                background-color: #3F729B !important;
+            }
+        }
