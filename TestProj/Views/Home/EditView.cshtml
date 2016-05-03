@@ -13,31 +13,36 @@
                 <i class="zmdi zmdi-account-circle zmdi-hc-3x"></i><label class="panel-heading" style="font-size: 20px; color: white;">Update Contact</label>
             </div>
             <div class="panel-body">
-                @Html.HiddenFor(model => Model.Id)
                 <div class="input-field col-md-6">
-                    Name: <br/>
-                    @Html.EditorFor(model => Model.Name)
+                    <i class="zmdi zmdi-account-circle prefix"></i>
+                    @Html.EditorFor(model => model.Name, new { id = "zmdi-account" })
+                    <label for="zmdi-account">Name:</label>
                 </div>
 
                 <div class="input-field col-md-6">
-                    Mobile Phone: <br/>
-                    @Html.EditorFor(model => Model.MobilePhone)
+                    <i class="zmdi zmdi-phone prefix"></i>
+                    @Html.EditorFor(model => model.MobilePhone, new { id = "icon_telephone" })
+                    <label for="icon_telephone">Mobile Phone:</label>
                 </div>
 
                 <div class="input-field col-md-6">
-                    Dear: <br/>
-                    @Html.EditorFor(model => Model.Dear)
+                    <i class="zmdi zmdi-face prefix"></i>
+                    @Html.EditorFor(model => model.Dear, new { id = "zmdi-face" })
+                    <label for="zmdi-face">Dear</label>
                 </div>
 
                 <div class="input-field col-md-6">
-                    Job Title: <br/>
-                    @Html.EditorFor(model => Model.JobTitle)
+                    <i class="zmdi zmdi-seat prefix"></i>
+                    @Html.EditorFor(model => model.JobTitle, new { id = "zmdi-seat" })
+                    <label for="zmdi-seat">JobTitle</label>
                 </div>
-                <div class="input-field col-md-6">
 
-                    Birth Date: <br/>
-                    @Html.EditorFor(model => Model.BirthDate,new{type="text"})
+                <div class="input-field col-md-6">
+                    <i class="zmdi zmdi-cake prefix"></i>
+                    @Html.EditorFor(model => model.BirthDate, new { id = "zmdi-cake" })
+                    <label for="zmdi-cake">Birth Date</label>
                 </div>
+
 
                     <p>
 

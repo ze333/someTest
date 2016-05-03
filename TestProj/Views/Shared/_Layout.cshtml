@@ -27,13 +27,11 @@
 
 </div>
     <!-- JQuery -->
-    <script type="text/javascript" src="~/Scripts/material/jquery.min.js"></script>
-
+    @Scripts.Render("~/Scripts/material/jquery.min.js")
     <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="~/Scripts/material/bootstrap.min.js"></script>
-
+    @Scripts.Render("~/Scripts/material/bootstrap.min.js")
     <!-- Material Design Bootstrap -->
-    <script type="text/javascript" src="~/Scripts/material/mdb.js"></script>
+    @Scripts.Render("~/Scripts/material/mdb.js")
 @RenderSection("scripts", required: false)
 </body>
 </html>
